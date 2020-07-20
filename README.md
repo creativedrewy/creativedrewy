@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img alt="Testing svg files" src="./test.svg" />
+</p>
+
 <!--
 **creativedrewy/creativedrewy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
