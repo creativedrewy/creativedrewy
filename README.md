@@ -9,8 +9,6 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=creativedrewy&show_icons=true" alt="creativedrewy" /></p>
-
 - 🔭  I’m currently working on [Spark Post Android](https://play.google.com/store/apps/details?id=com.adobe.spark.post&hl=en_US)
 
 - 💬  Ask me about **Android development, Kotlin, and Architecture**
@@ -24,3 +22,5 @@
 <a href="https://www.behance.net/creativedrewy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="creativedrewy" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/creativedrewy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="creativedrewy" height="20" width="20" /></a>
 </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=creativedrewy&show_icons=true" alt="creativedrewy" /></p>
