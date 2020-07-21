@@ -2,7 +2,7 @@
 <h3 align="center">An Android developer in San Francisco, CA</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativedrewy" alt="creativedrewy" /> </p>
 
-<p>
+<p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/> 
