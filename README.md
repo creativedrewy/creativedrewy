@@ -15,6 +15,6 @@
 
 - 📫  How to reach me **creativedrewy@gmail.com**
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=creativedrewy" alt="creativedrewy" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=creativedrewy" alt="creativedrewy" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=creativedrewy&show_icons=true" alt="creativedrewy" /></p>
 
