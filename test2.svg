@@ -5,7 +5,7 @@
             <termtosvg:animation type="css"/>
         </termtosvg:template_settings>
         <style type="text/css" id="generated-style">
-
+            <![CDATA[
             @font-face {
                 font-family: SourceCode;
                 src: url(SourceCodePro-Regular.ttf) format("truetype");
@@ -47,16 +47,16 @@
 81.956%{transform:translateY(-9180px)}
 82.117%{transform:translateY(-9690px)}
 100.000%{transform:translateY(-9690px)}
-            }
+        }
 
-            #screen_view {
-                animation-duration: 5592ms;
-                animation-iteration-count:infinite;
-                animation-name:roll;
-                animation-timing-function: steps(1,end);
-                animation-fill-mode: forwards;
-            }
-
+        #screen_view {
+            animation-duration: 5592ms;
+            animation-iteration-count:infinite;
+            animation-name:roll;
+            animation-timing-function: steps(1,end);
+            animation-fill-mode: forwards;
+        }
+        ]]>
         </style>
         <style type="text/css" id="user-style">
             /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
