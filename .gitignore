@@ -1,0 +1,12 @@
+*.iml
+/.idea/.name
+/.idea/workspace.xml
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/dictionaries/
+/.idea/caches
+/.idea/assetWizardSettings.xml
+/.idea/markdown-navigator-enh.xml
+/.idea/jarRepositories.xml
