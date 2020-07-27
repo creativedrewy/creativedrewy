@@ -7,12 +7,12 @@
         <style type="text/css" id="generated-style">
             <![CDATA[
             @font-face {
-                font-family: SourceCode;
-                src: url(SourceCodePro-Regular.ttf) format("truetype");
+                font-family: 'SourceCode';
+                src: url("SourceCodePro-Regular.ttf") format("truetype");
             }
 
             #screen {
-                font-family: SourceCode;
+                font-family: 'SourceCode';
                 font-size: 14px;
             }
 
