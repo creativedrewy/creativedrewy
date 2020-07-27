@@ -63,8 +63,14 @@
                them as needed.
                PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
 
-            .foreground {fill: #cccccc;}
-            .background {fill: #0c0c0c;}
+            .foreground {
+                fill: #cccccc;
+                font-family: 'SourceCode';
+            }
+            .background {
+                fill: #0c0c0c;
+                font-family: 'SourceCode';
+            }
             .color0 {fill: #0c0c0c;}
             .color1 {fill: #c50f1f;}
             .color2 {fill: #13a10e;}
