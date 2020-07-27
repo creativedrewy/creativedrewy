@@ -7,19 +7,19 @@
         <style type="text/css" id="generated-style">
 
             @font-face {
-                font-family: "Source Code Pro";
-                url(fonts/SourceCodePro-Regular.ttf) format("truetype");
+                font-family: SourceCode;
+                src: url(fonts/SourceCodePro-Regular.ttf) format("truetype");
             }
 
             #screen {
-                font-family: 'Source Code Pro';
+                font-family: SourceCode;
                 font-size: 14px;
             }
 
-        text {
-            dominant-baseline: text-before-edge;
-            white-space: pre;
-        }
+            text {
+                dominant-baseline: text-before-edge;
+                white-space: pre;
+            }
     
             :root {
                 --animation-duration: 5592ms;
@@ -62,6 +62,7 @@
             /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
                them as needed.
                PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+
             .foreground {fill: #cccccc;}
             .background {fill: #0c0c0c;}
             .color0 {fill: #0c0c0c;}
