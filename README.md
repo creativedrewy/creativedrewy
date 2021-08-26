@@ -12,8 +12,7 @@
 
 - 💬  Ask me about **Android development, Kotlin, and Architecture**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)](https://github.com/creativedrewy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar&margin-w=10&column=3)](https://github.com/creativedrewy)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=creativedrewy" alt="creativedrewy" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=creativedrewy&show_icons=true" alt="creativedrewy" /></p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=creativedrewy" alt="creativedrewy" /></p>
