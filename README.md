@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/c/creativedrewy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="creativedrewy" height="80" width="80" /></a>
 </p>
 
-- 🔭  I’m currently working on [NATIV](https://play.google.com/store/apps/details?id=com.creativedrewy.nativ) and [Premiere Rush Android](https://play.google.com/store/apps/details?id=com.adobe.premiererush.videoeditor&hl=en_US&gl=US)
+- 🔭  I’m currently working on [NATIV](https://play.google.com/store/apps/details?id=com.creativedrewy.nativ) and [Solana Mobile](https://solanamobile.com/)
 
 - 💬  Ask me about **Android development, Kotlin, and Mobile Architecture**
 
