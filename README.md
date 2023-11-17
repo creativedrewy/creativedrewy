@@ -8,8 +8,6 @@
 <a href="https://www.youtube.com/c/creativedrewy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="creativedrewy" height="80" width="80" /></a>
 </p>
 
-- 💬  Ask me about **Android development, Kotlin, and Mobile Architecture**
-
 <br />
 
 <div align="center">
